@@ -1,0 +1,7 @@
+C:\Users\maria\Documents\program uni\set3\pb18\bin\Debug\pb18.exe.config
+C:\Users\maria\Documents\program uni\set3\pb18\bin\Debug\pb18.exe
+C:\Users\maria\Documents\program uni\set3\pb18\bin\Debug\pb18.pdb
+C:\Users\maria\Documents\program uni\set3\pb18\obj\Debug\pb18.csproj.AssemblyReference.cache
+C:\Users\maria\Documents\program uni\set3\pb18\obj\Debug\pb18.csproj.CoreCompileInputs.cache
+C:\Users\maria\Documents\program uni\set3\pb18\obj\Debug\pb18.exe
+C:\Users\maria\Documents\program uni\set3\pb18\obj\Debug\pb18.pdb
